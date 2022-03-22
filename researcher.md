@@ -18,3 +18,9 @@ Masooda Bashir (School of Information Sciences, University of Illinois at Urbana
 - Linfeng Zhang
 - Christopher Muhawe
 - Carol Mullins Hayes
+
+**Collaborators from Cisco:**
+
+- Chris Shenefiel
+- Lisa Bobbitt
+- Jonathan Fox
