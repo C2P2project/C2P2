@@ -165,4 +165,4 @@ If you have other questions or concerns, please feel free to contact us:
 
 ### Project Researchers
 
-A list of researchers involved in this project can be found [HERE](https://c2p2project.github.io/C2P2/researchers). 
+A list of researchers involved in this project can be found [HERE](https://c2p2project.github.io/C2P2/researcher). 
