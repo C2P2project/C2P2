@@ -24,3 +24,7 @@ Masooda Bashir (School of Information Sciences, University of Illinois at Urbana
 - Chris Shenefiel
 - Lisa Bobbitt
 - Jonathan Fox
+
+<br/>
+
+***[Back](https://tianwang0712.github.io/The-C2P2-Framework/)*** to the homepage
