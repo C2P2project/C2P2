@@ -17,7 +17,7 @@ The goal of developing the C2P2 framework is to provide a novel and comprehensiv
 
 ### Method
 
-[HERE](https://tianwang0712.github.io/The-C2P2-Framework/method) are the details on how we developed the initial version of the C2P2 Framework.
+[HERE](https://c2p2project.github.io/C2P2/method) are the details on how we developed the initial version of the C2P2 Framework.
 
 
 ### List of criteria included in C2P2
